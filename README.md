@@ -1,2 +1,2 @@
 # sistem-informasi
-sistem informasi
+sistem informasi untuk wang kas
